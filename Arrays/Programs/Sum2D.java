@@ -5,7 +5,7 @@ public class Sum2D{
         int[][] arr = {{1,4,3,9,4,0,4},{9,4,8,3,9,8,3}};
         int sum = 0;
         for(int i=0;i<arr.length;i++){
-            for(int j=0;j<arr[i].length;){
+            for(int j=0;j<arr[i].length;j++){
                 sum+=arr[i][j];
             }
         }
