@@ -18,7 +18,7 @@ public class LoopArray{
         }
         System.out.println("=============================================================");
         //for-each loop
-        String[] arr3 = {"India","America","Nepal","Iran"};
+        String[] arr3 = {"India", "Australia", "England", "New Zealand"};
         for(String arr : arr3){
             System.out.println(arr);
         }

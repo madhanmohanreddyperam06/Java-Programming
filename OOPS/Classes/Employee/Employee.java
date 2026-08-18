@@ -1,12 +1,14 @@
-class Employee {
+public class Employee{
     String name;
-    int empID;
+    int id;
     double salary;
     String designation;
-    public void getInformation() {
+    long phn_number;
+    public void getInfo(){
         System.out.println("Employee Name : " + name);
-        System.out.println("Employee ID   : " + empID);
-        System.out.println("Salary        : " + salary);
-        System.out.println("Designation   : " + designation);
+        System.out.println("Employee ID : " + id);
+        System.out.println("Employee Salary : " + salary);
+        System.out.println("Employee Designation : " + designation);
+        System.out.println("Employee Phone Number : " + phn_number);
     }
 }

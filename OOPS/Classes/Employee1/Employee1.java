@@ -1,20 +1,19 @@
-class Employee1{
+public class Employee1{
     String name;
-    int empId;
+    int id;
     double salary;
     String designation;
-
-    Employee1(String name, int empId, double salary, String designation) {
-        this.name = name;
-        this.empId = empId;
-        this.salary = salary;
-        this.designation = designation;
+    public Employee1(String name, int id, double salary, String designation){
+        this.name=name;
+        this.id=id;
+        this.salary=salary;
+        this.designation=designation;
     }
-
-    void display() {
-        System.out.println("Employee Name : " + name);
-        System.out.println("Employee ID   : " + empId);
-        System.out.println("Salary        : " + salary);
-        System.out.println("Designation   : " + designation);
+    public void getDetails(){
+        System.out.println(">>>>>>>>>>>>>>>>>EMPLOYEE DETAILS");
+        System.out.println("Emp Name : " + this.name);
+        System.out.println("Emp ID : " + this.id);
+        System.out.println("Emp Salary : " + this.salary);
+        System.out.println("Emp Designation : " + this.designation);
     }
 }

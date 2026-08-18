@@ -12,9 +12,9 @@ public class LoopArray{
         System.out.println("=============================================================");
         
         //using for-each loop iterating through a 2D Array
-        String[][] fruits = {{"Apple","Banana","Cherry"},{"Orange","Grapes","Lemon"}};
-        for(String[] i : fruits){
-            for(String j : i){
+        int[][] fruits = {{1,2,3},{1,2,3}};
+        for(int[] i : fruits){
+            for(int j : i){
                 System.out.println(j);
             }
         }

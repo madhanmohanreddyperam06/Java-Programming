@@ -3,7 +3,7 @@
 public class New{
     public static void main(String[] args){
         String[] fruits = new String[5];
-
+        
         fruits[0]="Apple";
         fruits[1]="Banana";
         fruits[2]="Cherry";
