@@ -17,6 +17,6 @@ public class School{
             max=st[i];
             }
         }
-        System.out.println(max);
+        System.out.println(max); 
     }
 }

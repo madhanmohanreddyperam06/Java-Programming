@@ -1,4 +1,6 @@
-public class Clock{
+//Encapsulation 
+
+    public class Clock{
     private int hour;
     private int minute;
     private int second;

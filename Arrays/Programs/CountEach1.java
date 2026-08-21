@@ -9,7 +9,6 @@ public class CountEach1{
             char ch = s.charAt(i);
             if(! d.contains(ch + "")){
                 for(int j=i+1;j<s.length();j++){
-                    
                     if(ch==s.charAt(j))
                     count++;
                 }

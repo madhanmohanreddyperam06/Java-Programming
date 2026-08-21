@@ -6,7 +6,7 @@ public class DistinctValue{
             char ch = s.charAt(i);
             if(! res.contains(ch + " ")){
                 res += ch; 
-            } 
+            }
         }
         System.out.println(res);
     }
