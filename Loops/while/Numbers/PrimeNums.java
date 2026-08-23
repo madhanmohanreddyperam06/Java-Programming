@@ -2,6 +2,7 @@
 
 public class PrimeNums{
     public static void main(String[] args){
+        int m = 10;
         for(int i=m;i<=m;i++){
             int a=i;
             int f=1, count=0;
