@@ -1,11 +1,9 @@
-// using while loop --> print alphabets A-Z
+// print alphabets from a to z
 
 public class Alphabets{
     public static void main(String[] args){
-        char ch = 'A';
-        while(ch<='Z'){
+        for(char ch='A'; ch<='Z';ch++){
             System.out.println(ch);
-            ch++;
         }
     }
 }
