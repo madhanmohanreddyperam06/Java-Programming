@@ -5,7 +5,7 @@ public class Num6To60{
         int n=6;
         while(n<=60){
             System.out.println(n);
-            n=n+6;
+            n+=6;
         }
     }
 }
