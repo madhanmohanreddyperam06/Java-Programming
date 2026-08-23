@@ -1,5 +1,5 @@
 //using method overriding
-gh
+
 class Journey{
     void travel(){
         System.out.println("Travel through any type of Transportation");
