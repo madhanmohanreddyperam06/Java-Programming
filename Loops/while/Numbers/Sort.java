@@ -3,7 +3,7 @@
 
 public class Sort{
     public static void main(String[] args){
-        int n = 846241;
+        int n = 86241;
         int sort = 0;
         for (int i=1; i<=9; i++){
             int temp=n;

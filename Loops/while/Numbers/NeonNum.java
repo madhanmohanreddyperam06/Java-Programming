@@ -3,11 +3,11 @@
 
 public class NeonNum{
     public static void main(String[] args){
-        int n=125;
+        int n=9;
         isNeon(n);
     }
     public static void isNeon(int n){
-        int sq=0;
+        int sq=n*n;
         int sum=0;
         while(sq>0){
             int rem=sq%10;

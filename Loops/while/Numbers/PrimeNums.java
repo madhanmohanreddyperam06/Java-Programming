@@ -3,10 +3,11 @@
 public class PrimeNums{
     public static void main(String[] args){
         int m = 10;
-        for(int i=m;i<=m;i++){
+        int n = 30;
+        for(int i=m;i<=n;i++){
             int a=i;
             int f=1, count=0;
-            while(f<=0){
+            while(f<=a){
                 if(a%f==0){
                     count++;
                 }
