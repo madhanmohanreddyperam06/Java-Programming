@@ -1,8 +1,8 @@
 // Abstraction --> the process of hiding the implementation details and only shows the  essential functionality to the user
 
 abstract interface ATM{
-    abstract public void withdraw();
-    abstract public void balance();
+    abstract public  void withdraw();
+    abstract public  void balance();
 }
 class Bank{
     private class SBI implements ATM{
