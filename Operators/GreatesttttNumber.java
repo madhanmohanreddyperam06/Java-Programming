@@ -1,0 +1,6 @@
+public class GreatesttttNumber{
+	public static void main(String[] args){
+	int a=10,b=5,c=12,d=1;
+	System.out.println(a>b? (a>c?(a>d? a:d):(c>d? c:d)) : (b>c?(b>d? b:d):(c>d? c:d));
+	}
+}
