@@ -1,0 +1,26 @@
+# Java Programming
+
+[![Java](https://img.shields.io/badge/Java-8B0000?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4IiBmaWxsPSJ3aGl0ZSI%2BPHBhdGggZD0iTTQ3LjYxNyA5OC4xMnMtNC43NjcgMi43NzQgMy4zOTcgMy43MWM5Ljg5MiAxLjEzIDE0Ljk0Ny45NjggMjUuODQ1LTEuMDkyIDAgMCAyLjg3MSAxLjc5NSA2Ljg3MyAzLjM1MS0yNC40MzkgMTAuNDctNTUuMzA4LS42MDctMzYuMTE1LTUuOTY5em0tMi45ODgtMTMuNjY1cy01LjM0OCAzLjk1OSAyLjgyMyA0LjgwNWMxMC41NjcgMS4wOTEgMTguOTEgMS4xOCAzMy4zNTQtMS42IDAgMCAxLjk5MyAyLjAyNSA1LjEzMiAzLjEzMS0yOS41NDIgOC42NC02Mi40NDYuNjgtNDEuMzA5LTYuMzM2eiIvPjxwYXRoIGQ9Ik02OS44MDIgNjEuMjcxYzYuMDI1IDYuOTM1LTEuNTggMTMuMTctMS41OCAxMy4xN3MxNS4yODktNy44OTEgOC4yNjktMTcuNzc3Yy02LjU1OS05LjIxNS0xMS41ODctMTMuNzkyIDE1LjYzNS0yOS41OCAwIC4wMDEtNDIuNzMxIDEwLjY3LTIyLjMyNCAzNC4xODd6Ii8%2BPHBhdGggZD0iTTEwMi4xMjMgMTA4LjIyOXMzLjUyOSAyLjkxLTMuODg4IDUuMTU5Yy0xNC4xMDIgNC4yNzItNTguNzA2IDUuNTYtNzEuMDk0LjE3MS00LjQ1MS0xLjkzOCAzLjg5OS00LjYyNSA2LjUyNi01LjE5MiAyLjczOS0uNTkzIDQuMzAzLS40ODUgNC4zMDMtLjQ4NS00Ljk1My0zLjQ4Ny0zMi4wMTMgNi44NS0xMy43NDMgOS44MTUgNDkuODIxIDguMDc2IDkwLjgxNy0zLjYzNyA3Ny44OTYtOS40Njh6TTQ5LjkxMiA3MC4yOTRzLTIyLjY4NiA1LjM4OS04LjAzMyA3LjM0OGM2LjE4OC44MjggMTguNTE4LjYzOCAzMC4wMTEtLjMyNiA5LjM5LS43ODkgMTguODEzLTIuNDc0IDE4LjgxMy0yLjQ3NHMtMy4zMDggMS40MTktNS43MDQgMy4wNTNjLTIzLjA0MiA2LjA2MS02Ny41NDQgMy4yMzgtNTQuNzMxLTIuOTU4IDEwLjgzMi01LjIzOSAxOS42NDQtNC42NDMgMTkuNjQ0LTQuNjQzem00MC42OTcgMjIuNzQ3YzIzLjQyMS0xMi4xNjcgMTIuNTkxLTIzLjg2IDUuMDMyLTIyLjI4NS0xLjg0OC4zODUtMi42NzcuNzItMi42NzcuNzJzLjY4OC0xLjA3OSAyLTEuNTQzYzE0Ljk1My01LjI1NSAyNi40NTEgMTUuNTAzLTQuODIzIDIzLjcyNSAwLS4wMDIuMzU5LS4zMjcuNDY4LS42MTd6Ii8%2BPHBhdGggZD0iTTc2LjQ5MSAxLjU4N1M4OS40NTkgMTQuNTYzIDY0LjE4OCAzNC41MWMtMjAuMjY2IDE2LjAwNi00LjYyMSAyNS4xMy0uMDA3IDM1LjU1OS0xMS44MzEtMTAuNjczLTIwLjUwOS0yMC4wNy0xNC42ODgtMjguODE1QzU4LjA0MSAyOC40MiA4MS43MjIgMjIuMTk1IDc2LjQ5MSAxLjU4N3oiLz48cGF0aCBkPSJNNTIuMjE0IDEyNi4wMjFjMjIuNDc2IDEuNDM3IDU3LS44IDU3LjgxNy0xMS40MzYgMCAwLTEuNTcxIDQuMDMyLTE4LjU3NyA3LjIzMS0xOS4xODYgMy42MTItNDIuODU0IDMuMTkxLTU2Ljg4Ny44NzQgMCAuMDAxIDIuODc1IDIuMzgxIDE3LjY0NyAzLjMzMXoiLz48L3N2Zz4%3D&logoColor=white)](https://dev.java/)
+
+
+A collection of Java practice programs and exercises organized by topic.
+
+## Repository Structure
+
+- **Basics/** — Introductory programs, student details, and type casting examples
+- **Classes/** — Method and class-based number problems (prime, perfect, factorial, factors, Harshad, etc.)
+- **Loops/** — Loop exercises, number logic, and pattern printing (`P2`–`P22`, `Pattern*`, `Print*`)
+- **OOPS/** — Object-oriented programming concepts (including `Inheritance/`)
+- **Operators/** — Conditional and operator exercises (even/odd, divisibility, greatest number)
+- **Prep/** — Practice problems organized into `Arrays/`, `Numbers/`, and `Strings/`
+- **Thread/** — Multithreading examples (`ExtendingThread`, `ImplementingRunnable`, and `ThreadDemo`)
+
+## Running a Program
+
+Compile and run any `.java` file using the JDK:
+
+```bash
+javac <Folder>/<FileName>.java
+java -cp <Folder> <ClassName>
+```
+
