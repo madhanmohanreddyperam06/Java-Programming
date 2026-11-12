@@ -13,7 +13,7 @@ A collection of Java practice programs and exercises organized by topic.
 - **OOPS/** — Object-oriented programming concepts (including `Inheritance/`)
 - **Operators/** — Conditional and operator exercises (even/odd, divisibility, greatest number)
 - **Prep/** — Practice problems organized into `Arrays/`, `Numbers/`, and `Strings/`
-- **Thread/** — Multithreading examples (`ExtendingThread`, `ImplementingRunnable`, and `ThreadDemo`)
+- **Thread/** — Multithreading example (`ExtendingThread`, `ImplementingRunnable`, and `ThreadDemo`)
 
 ## Running a Program
 
